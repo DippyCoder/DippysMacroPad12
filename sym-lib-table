@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Seeeduino_XIAO)(type Legacy)(uri "${KIPRJMOD}/components/xiao/Seeeduino XIAO.lib")(options "")(descr ""))
-)
